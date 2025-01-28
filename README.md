@@ -1,1 +1,0 @@
-# CVI_T1_Hello_World_Personalizado
